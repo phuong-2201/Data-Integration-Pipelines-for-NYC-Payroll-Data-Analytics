@@ -1,0 +1,9 @@
+{
+	"name": "nycpayrollfactory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91f3805b-de35-4860-be64-ea61f6540c4f",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
